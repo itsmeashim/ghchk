@@ -43,6 +43,8 @@ To provide tokens via stdin, pipe them directly into ghchk.
 ## Installation
 
 ### Install using Go
-`go install -v github.com/itsmeashim/ghchk@latest`
+```
+go install -v github.com/itsmeashim/ghchk@latest
+```
 
 Or download a [binary release](https://github.com/itsmeashim/ghchk/releases) for your platform.
